@@ -5,7 +5,7 @@
 		<em:type>2</em:type>
 		<em:id>peraperakun@gmail.com</em:id>
 		<em:name>Perapera Japanese</em:name>
-		<em:version>12.1.0.1-signed</em:version>
+		<em:version>12.1.0.2-signed</em:version>
 		<em:description>Japanese Pop-up Dictionary</em:description>
 		<em:optionsURL>chrome://jperapera/content/options.xul</em:optionsURL>
 		<em:iconURL>chrome://jperapera/skin/japanese32.png</em:iconURL>
@@ -22,7 +22,7 @@
 			<Description>
 				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
 				<em:minVersion>4.0</em:minVersion>
-				<em:maxVersion>35.*</em:maxVersion>
+				<em:maxVersion>42.*</em:maxVersion>
 			</Description>
 		</em:targetApplication>
 	</Description>
