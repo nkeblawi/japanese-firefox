@@ -1,0 +1,72 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VZJYV81b6v3DYstbUDjqVQ==
+SHA1-Digest: hlOBtRCvZ/5l9InjhGGgDACXeQs=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YUv2knc/9fjT/3BvhVGcSw==
+SHA1-Digest: UCDopS8SGdQDRThgKSy+JJvHcvM=
+
+Name: dict.sqlite
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1DmybNr/uD8zb3mCMjiNkg==
+SHA1-Digest: yphuIaZC4tV6At0/J+eMCxaLu44=
+
+Name: names.sqlite
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5NukMVbOl8rho1DZWdLpGQ==
+SHA1-Digest: +Eu52U0lSkpr40+Zs6u6GWAWghY=
+
+Name: __MACOSX/._chrome
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aszYchYo2aQfzh/CUsgITg==
+SHA1-Digest: 0JnVqcqkAHyuaz9OMJEhWfzyCH4=
+
+Name: __MACOSX/._chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aszYchYo2aQfzh/CUsgITg==
+SHA1-Digest: 0JnVqcqkAHyuaz9OMJEhWfzyCH4=
+
+Name: __MACOSX/._defaults
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aszYchYo2aQfzh/CUsgITg==
+SHA1-Digest: 0JnVqcqkAHyuaz9OMJEhWfzyCH4=
+
+Name: __MACOSX/._install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7QsbAI1iTU4ztiJInKyMOQ==
+SHA1-Digest: Fyk4t7XK+JKwxonAy2rF4KjaHC4=
+
+Name: __MACOSX/._names.sqlite
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: raEmEyus5N7Fb+8pV9snCg==
+SHA1-Digest: mqi3wuw1Kc2lyFk3yLup4L+aFyk=
+
+Name: __MACOSX/chrome/._jperapera.jar
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aszYchYo2aQfzh/CUsgITg==
+SHA1-Digest: 0JnVqcqkAHyuaz9OMJEhWfzyCH4=
+
+Name: __MACOSX/defaults/._preferences
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aszYchYo2aQfzh/CUsgITg==
+SHA1-Digest: 0JnVqcqkAHyuaz9OMJEhWfzyCH4=
+
+Name: __MACOSX/defaults/preferences/._jperapera.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aszYchYo2aQfzh/CUsgITg==
+SHA1-Digest: 0JnVqcqkAHyuaz9OMJEhWfzyCH4=
+
+Name: chrome/jperapera.jar
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hhyhEhVKS8+7zRdqvHYaOw==
+SHA1-Digest: V6KzEsp6U8woJ2cZfj4o0MLJsRo=
+
+Name: defaults/preferences/jperapera.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6h0HbH9dqyOFkF9MupH5pA==
+SHA1-Digest: VYPM3p9JqrocOkDu5knYw8LCjYQ=
+
